@@ -16,10 +16,9 @@ String i="Mercer";
 String j "counts";
 String k="to";
 String l= "10";
-int ten=int()1
-String M="by"
-String N "1"
-int one int(n)
-int one =int(l);//Is a number by "casting"
-println(g + h, i, j, k, 1+1 m, n)
-println(g + h, i, k, ten+1, m, n)
+int ten=int()1;
+String m="by";
+String n"1";
+int one int(n);
+println(g + h, i, j, k, 1+1 m, n);
+println(g + h, i, k, ten+1, m, n);
